@@ -8,6 +8,8 @@ Quintas - manhã
 
 **Link do Classroom:** EM BREVE
 
+**Link do NearPod:** [NearPod](https://nearpod.com/)
+
 ---
 
 ## Atividades
@@ -16,7 +18,18 @@ Quintas - manhã
 
 ## Critérios de avaliação
 
+- Todas as atividades serão ministradas via Google Classroom.
+- A média final de vocês é calculada simplesmente pela média das atividades
+- Toda atividade será dissertativa ou de múltipla escolha
+- As atividades serão informadas em aula e terão um prazo mínimo de 14 dias para realização
+- Eventualmente o professor poderá aplicar uma ou mais provas EM AULA. Se este for o caso, a data será previamente definida
+- Poderemos ter eventuais atividades individuais durante as aulas (com perguntas durante a própria aula)
+- A Avaliação Integrada (AI) é independente do professor e será agendada pela coordenação do curso
+
 ## Mini ementa da disciplina
 
-## Links e bibliografia básica
+Nessa disciplina vamos aprender os principais conceitos de gestão de tecnologia da informação, especialmente no que concerne a área de ITIL, COBIT e ISO 20000. Essa é uma disciplina teórica cujas aulas serão expositivas.
 
+Durante as aulas o professor utilizará o NearPod como ferramenta para exposição dos materiais. Todo conteúdo será disponibilizado no Classroom da disciplina e neste repositório.
+
+## Links e bibliografia básica
