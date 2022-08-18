@@ -1,12 +1,10 @@
 # Serviços de TI
 
-Turma 1
-
-Quintas - manhã
+Turma 1 - Quintas - manhã
 
 **E-mail do professor:** thiago.traue@uni9.pro.br
 
-**Link do Classroom:** EM BREVE
+**Link do Classroom:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMTczODI5?cjc=wuyaiff)
 
 **Link do NearPod:** [NearPod](https://nearpod.com/)
 
