@@ -12,7 +12,9 @@ Turma 1 - Quintas - manhã
 
 ## Atividades
 
-- A disciplina ainda não demanda atividades
+Todas as atividades vencem às 09H do dia informado abaixo:
+
+- Atividade 1: De 22.09 até 20.10
 
 Todas as ativiades devem ser realizadas via Google Classroom (o link está o cabeçalho deste repositório). Lembre-se de utilizar o e-mail INSTITUCIONAL (@uni9.edu.br) para acessaar.
 
