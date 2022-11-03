@@ -14,8 +14,9 @@ Turma 1 - Quintas - manhã
 
 Todas as atividades vencem às 09H do dia informado abaixo:
 
-- Atividade 1: De 22.09 até 21.10
-- Atividade 2: De 13.10 até 03.11
+- Atividade 1: De 22.09 até 21.10 - Encerrada
+- Atividade 2: De 13.10 até 03.11 - Encerrada
+- Atividade 3: De 03.11 até 24.11
 
 Todas as ativiades devem ser realizadas via Google Classroom (o link está o cabeçalho deste repositório). Lembre-se de utilizar o e-mail INSTITUCIONAL (@uni9.edu.br) para acessaar.
 
