@@ -20,6 +20,12 @@ Todas as atividades vencem às 09H do dia informado abaixo:
 
 Todas as ativiades devem ser realizadas via Google Classroom (o link está o cabeçalho deste repositório). Lembre-se de utilizar o e-mail INSTITUCIONAL (@uni9.edu.br) para acessaar.
 
+## Avaliação Integrada
+
+Ocorrerá no dia **08/12**
+
+Não falte!!!!
+
 ## Critérios de avaliação
 
 - Todas as atividades serão ministradas via Google Classroom.
