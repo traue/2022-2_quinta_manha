@@ -44,6 +44,11 @@ Nessa disciplina vamos aprender os principais conceitos de gestão de tecnologia
 
 Durante as aulas o professor utilizará o NearPod como ferramenta para exposição dos materiais. Todo conteúdo será disponibilizado no Classroom da disciplina e neste repositório.
 
+## Links interessantes
+
+- [Curso de Git e GitHub](https://www.udemy.com/course/git-e-github-para-iniciantes/) - Udemy
+- [Curso de Git e GitHub](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - SchoolOfNet
+
 ## Links e bibliografia básica
 
 Alguns sites e empresas interessantes para quem está procirando estágio/emprego:
